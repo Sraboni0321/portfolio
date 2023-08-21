@@ -29,6 +29,10 @@ Variables
 Global Setting
 -----*/
 
+html{
+    scroll-behavior: smooth;
+}
+
 *{
     box-sizing: border-box;
     padding: 0;
